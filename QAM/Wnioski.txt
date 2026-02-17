@@ -1,0 +1,7 @@
+Efektywność pasmowa: Modulacja QAM-16 jest najbardziej wydajna, ponieważ przesyła 4 bity w jednym symbolu, co skutkuje węższym widmem głównym niż w przypadku BPSK przy tej samej prędkości bitowej.
+
+Charakterystyka sygnału: W modulacjach PSK informacja jest zapisana tylko w fazie, natomiast w QAM-8 i QAM-16 wykorzystuje się zarówno zmiany fazy, jak i amplitudy, co widać jako zmiany obwiedni sygnału.
+
+Porównanie widm (PSD): Widmo modulacji FSK jest najszersze z powodu przesunięć częstotliwości, natomiast widmo ASK wykazuje niską efektywność energetyczną w skali decybelowej.
+
+Kodowanie Graya: Zastosowanie kodu Graya w konstelacji QAM-16 minimalizuje bitową stopę błędów, ponieważ sąsiednie symbole różnią się od siebie tylko jednym bitem.

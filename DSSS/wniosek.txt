@@ -1,0 +1,4 @@
+Rozproszenie widma: Sygnał DSSS (tx_widmo) ma znacznie szersze pasmo i niższą gęstość mocy niż standardowy sygnał BPSK (tx_prim_widmo).Wpływ parametru T_c: 
+Szerokość pasma jest odwrotnie proporcjonalna do czasu trwania chipa T_c – im krótszy chip, tym szersze widmo sygnału.
+Dziedzina czasu: Sygnał rozproszony $tx_b$ wykazuje znacznie więcej zmian stanów niż sygnał wejściowy d_t, co wynika z mnożenia danych przez szybki kod Golda.
+Zalety systemu: Dzięki rozproszeniu sygnał staje się trudniejszy do wykrycia (LPI) i bardziej odporny na zakłócenia wąskopasmowe.
