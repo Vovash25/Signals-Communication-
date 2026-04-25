@@ -1,2 +1,2 @@
 # Signals-Communication-
-Ці проєкти є комплексним дослідженням методів підвищення надійності, захищеності та спектральної ефективності передачі даних. Вони охоплюють програмну реалізацію ключових технологій, що використовуються в сучасних стандартах зв'язку (від Wi-Fi до 5G).
+These projects represent a comprehensive study of methods for improving the reliability, security, and spectral efficiency of data transmission. They cover the software implementation of key technologies used in modern communication standards (from Wi-Fi to 5G).
